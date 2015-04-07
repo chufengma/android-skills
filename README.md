@@ -17,3 +17,6 @@
    
 ###6. android 布局优化技巧
    http://blog.csdn.net/guolin_blog/article/details/43376527
+
+###7. android 应用结构探讨
+   http://www.open-open.com/lib/view/open1427081772418.html#_label3
