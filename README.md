@@ -20,3 +20,13 @@
 
 ###7. android 应用结构探讨
    http://www.open-open.com/lib/view/open1427081772418.html#_label3
+   
+###8. android面试题
+   https://github.com/android-cn/android-discuss
+   
+   http://skillgun.com/android/interview-questions-and-answers/paper/419
+   
+   http://www.jobui.com/mianshiti/it/android/?n=2
+   
+   http://zmywly8866.github.io/2014/12/24/android-interview-questions-and-answers.html
+   
